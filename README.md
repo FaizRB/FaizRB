@@ -43,7 +43,7 @@ Full Stack Software Engineer with over 9 years of experience in Web and Mobile s
 - Architected systems with Node.js and relational databases.  
 - Integrated applications with national services (lapor.go.id).
 
-### Android & Backend Engineer – PT Malltronik Jaya Semesta (2018 – 2019)
+### Android & Backend Engineer – PT MJS (2018 – 2019)
 - Developed e-commerce app with payment and e-wallet integration.  
 - Built backend with MySQL and robust APIs, achieving ~10,000 installs.
 
