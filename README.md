@@ -34,7 +34,7 @@ Full Stack Software Engineer with over 9 years of experience in Web and Mobile s
 
 ## Work Experience
 ### Sr. Android Engineer – Blue Bird Group (2021 – 2024)
-- Developed and maintenance of Blue Bird Driver application.  
+- Led the development and maintenance of Blue Bird Driver application.  
 - Optimized performance and enforced code quality via GitLab code reviews.  
 - Collaborated with backend team on REST API and gRPC integrations.
 
