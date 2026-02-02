@@ -1,10 +1,11 @@
 # Andi Nur Faisal
-**Sr. Software Engineer | Lecturer & Researcher | Machine Learning Engineer**
+**Sr. Software Engineer | Researcher | AI/Machine Learning Engineer**
 
 📍 Makassar, Indonesia  
 📞 +62-853-4086-0540 (Phone/WA)  
 📧 [andinurfaisal93@gmail.com](mailto:andinurfaisal93@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/andi-nur-faisal-22545716b)  
+🌐 [Start Up](https://nexlide.com)
 
 ---
 
