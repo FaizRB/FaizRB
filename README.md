@@ -3,7 +3,7 @@
 ### Electrical Engineering Lecturer · AI/ML Researcher · Technical Founder · Senior Software Engineer
 
 **Makassar, Indonesia**
-+62-853-4086-0540 · [andinurfaisal93@gmail.com](mailto:andinurfaisal93@gmail.com)
+[andinurfaisal93@gmail.com](mailto:andinurfaisal93@gmail.com) ·
 [LinkedIn](https://linkedin.com/in/andi-nur-faisal-22545716b) · [Koniami](https://nexlide.com)
 
 ---
