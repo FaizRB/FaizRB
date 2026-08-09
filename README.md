@@ -4,7 +4,7 @@
 
 **Makassar, Indonesia**
 [andinurfaisal93@gmail.com](mailto:andinurfaisal93@gmail.com) ·
-[LinkedIn](https://linkedin.com/in/andi-nur-faisal-22545716b) · [Koniami](https://nexlide.com)
+[LinkedIn](https://linkedin.com/in/andi-nur-faisal-22545716b) · [Koniami](https://koniami.com)
 
 ---
 
