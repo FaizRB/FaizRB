@@ -77,7 +77,7 @@ Exploring specialized accelerator architectures for emerging AI workloads, with 
 
 ## Electrical Engineering Lecturer & Researcher
 
-**[University Name] · [Year] – Present**
+**[Makassar State University] · [2024] – Present**
 
 * Teach and develop learning experiences in **Electrical Engineering and Computer Engineering**.
 * Conduct research and experimentation in **Artificial Intelligence, Machine Learning, Computer Vision, and intelligent engineering systems**.
